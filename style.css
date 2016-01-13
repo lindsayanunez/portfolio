@@ -1,0 +1,93 @@
+body {
+  font-family: 'Muli', sans-serif; }
+ img {
+  max-width: 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Archivo Narrow', sans-serif; }
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+
+header.jumbotron {
+  background-image: url("images/jumbo_tron.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 40px;
+  margin-bottom: 0;
+  /*height: 300px;*/ }
+
+  .jumbotron {
+    min-height: 600px;}
+
+  .jumbotron h1 {
+    color: #04AFB6;
+    font-family: 'Lobster', cursive;
+    font-size: 100px; }
+
+  .well {
+     background: rgba(255, 255, 255, 0.7);
+  }
+
+  .btn {
+    background-color: #04AFB6;
+    color: white;
+  }
+
+  .btn:hover {
+  background: #03969c;
+  color: white;
+}
+
+
+#mission {
+  padding: 40px;
+  color: #323232;
+}
+
+#mission img{
+  border-radius: 40px;
+  max-width: 300px;
+  margin-right: 100px;
+}
+
+#services{
+  padding: 40px;
+  background-color: #04AFB6;
+  color: white;
+}
+
+#about{
+  margin-top: 100px;
+  margin-right: 100px;
+}
+
+#portfolio a{
+  color:#323232;
+}
+
+#project {
+
+}
+
+footer{
+  color: white;
+  background-color: #323232;
+}
+a:link{
+  color:white;
+  text-decoration: none;
+}
+a:visited{
+  color:white;
+  text-decoration: none;
+}
+a:hover
+{
+  text-decoration: none;
+}
+
